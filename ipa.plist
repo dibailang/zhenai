@@ -1,31 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>items</key>
-        <array>
-            <dict>
-                <key>assets</key>
-                <array>
-                    <dict>
-                        <key>kind</key>
-                        <string>software-package</string>
-                        <key>url</key>
-                        <string>https://github.com/dibailang/zhenai/releases/download/7.1.0/7.1.0.ipa</string>
-                    </dict>
-                </array>
-                <key>metadata</key>
-                <dict>
-                    <key>bundle-identifier</key>
-                     <string>live.yremp.zhenai</string>
-                     <key>bundle-version</key>
-                    <string></string>
-                    <key>kind</key>
-                    <string>software</string>
-                    <key>title</key>
-                    <string>zhenai</string>
-                </dict>
-            </dict>
-        </array>
-    </dict>
+<dict>
+	<key>StandardFilePerms</key>
+	<integer>-32348</integer>
+	<key>Version</key>
+	<integer>2</integer>
+	<key>RecordCount</key>
+	<integer>1605</integer>
+	<key>StandardDirectoryPerms</key>
+	<integer>16877</integer>
+	<key>CreatorToolCommandLine</key>
+	<string>"ZipTool" "-c" "10485760" "-s" "-" "-m" "deflate" "extDirizpllemojenwdfhy" "lpi1219108243372753890"</string>
+	<key>CreatorToolUUID</key>
+	<string>A814DEA2-5E10-3CD0-821C-7D9D2B0D6C63</string>
+	<key>TotalUncompressedBytes</key>
+	<integer>352977819</integer>
+</dict>
 </plist>
-
