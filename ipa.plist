@@ -26,8 +26,8 @@
                             <string>display-image</string>
                             <key>needs-shine</key>
                             <true/>
-                            <key>url</key>                                                                           
-                            <string>https://dibailang.github.io/zhenai/assets/images/icon.jpg</string>
+                            <key>url</key>
+                                  <string>https://dibailang.github.io/zhenai/assets/images/icon.jpg</string>
                           </dict>
                   </array>
                   <key>metadata</key>
